@@ -1,3 +1,7 @@
+![Static Badge](https://img.shields.io/badge/Programming-maroon?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Programming-Notes-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Programming_Guide-Book-Notes?style=for-the-badge)
+
 # Programming Notes Files
 
 ## Overview
